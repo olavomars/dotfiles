@@ -207,11 +207,7 @@ main() {
     
     install_rust
     install_zellij
-
-    # Use kitty as our terminal
     install_kitty
-
-    # Remove Go installation, add Java
     install_java
     install_lunarvim
 }
